@@ -15,7 +15,7 @@ A super condensed JavaScript reference for [Watch and Code](https://watchandcode
 3. It's the fastest way to learn and improve.
 5. Learn how to ignore large parts of a codebase and get a piece-by-piece understanding.
 
-### Before you start
+### Before you start.
 
 1. Read the docs (if they exist).
 2. Run the code.
